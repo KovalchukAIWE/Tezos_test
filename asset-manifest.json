@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Tezos_test/static/css/main.63708446.chunk.css",
+    "main.css": "/Tezos_test/static/css/main.c151ac00.chunk.css",
     "main.js": "/Tezos_test/static/js/main.f429aa21.chunk.js",
     "main.js.map": "/Tezos_test/static/js/main.f429aa21.chunk.js.map",
     "runtime-main.js": "/Tezos_test/static/js/runtime-main.6d16b6e1.js",
@@ -10,7 +10,7 @@
     "static/js/2.7ca58610.chunk.js.map": "/Tezos_test/static/js/2.7ca58610.chunk.js.map",
     "index.html": "/Tezos_test/index.html",
     "static/css/2.bc922b9c.chunk.css.map": "/Tezos_test/static/css/2.bc922b9c.chunk.css.map",
-    "static/css/main.63708446.chunk.css.map": "/Tezos_test/static/css/main.63708446.chunk.css.map",
+    "static/css/main.c151ac00.chunk.css.map": "/Tezos_test/static/css/main.c151ac00.chunk.css.map",
     "static/js/2.7ca58610.chunk.js.LICENSE.txt": "/Tezos_test/static/js/2.7ca58610.chunk.js.LICENSE.txt",
     "static/media/TezosBlocks.module.css": "/Tezos_test/static/media/Logo.08557f04.svg",
     "static/media/TestingSkils.module.css": "/Tezos_test/static/media/check.ea161571.svg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.6d16b6e1.js",
     "static/css/2.bc922b9c.chunk.css",
     "static/js/2.7ca58610.chunk.js",
-    "static/css/main.63708446.chunk.css",
+    "static/css/main.c151ac00.chunk.css",
     "static/js/main.f429aa21.chunk.js"
   ]
 }
