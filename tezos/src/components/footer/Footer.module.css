@@ -16,14 +16,14 @@ html {
 }
 
 .navigation_items {
-    width: 30%;
+    width: 65%;
     display: flex;
     justify-content: space-between;
 }
 
 .items {
     color: white;
-    width: 200px;
+    width: 100px;
     height: 60px;
     text-align: center;
     padding-top: 20px;
@@ -90,8 +90,19 @@ html {
     right: 15%;
 }
 
-@media (min-width: 1280px) {
-    .footer_items {
+@media (min-width: 768px) {
+    .logo_wraper {
+        width: 120px;
+    }
+
+    .navigation_items {
         width: 30%;
     }
+    
+    .items {
+        width: 200px;
+        height: 60px;
+    }
+    
+    
 }
