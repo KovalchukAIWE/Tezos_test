@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Tezos_test/static/css/main.63708446.chunk.css",
+    "main.js": "/Tezos_test/static/js/main.f429aa21.chunk.js",
+    "main.js.map": "/Tezos_test/static/js/main.f429aa21.chunk.js.map",
+    "runtime-main.js": "/Tezos_test/static/js/runtime-main.6d16b6e1.js",
+    "runtime-main.js.map": "/Tezos_test/static/js/runtime-main.6d16b6e1.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/Tezos_test/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.7ca58610.chunk.js": "/Tezos_test/static/js/2.7ca58610.chunk.js",
+    "static/js/2.7ca58610.chunk.js.map": "/Tezos_test/static/js/2.7ca58610.chunk.js.map",
+    "index.html": "/Tezos_test/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/Tezos_test/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.63708446.chunk.css.map": "/Tezos_test/static/css/main.63708446.chunk.css.map",
+    "static/js/2.7ca58610.chunk.js.LICENSE.txt": "/Tezos_test/static/js/2.7ca58610.chunk.js.LICENSE.txt",
+    "static/media/TezosBlocks.module.css": "/Tezos_test/static/media/Logo.08557f04.svg",
+    "static/media/TestingSkils.module.css": "/Tezos_test/static/media/check.ea161571.svg",
+    "static/media/OurTeam.module.css": "/Tezos_test/static/media/presentation.eb85828c.jpg",
+    "static/media/Header.module.css": "/Tezos_test/static/media/headerLogo.0deb93ba.svg",
+    "static/media/LoginView.module.css": "/Tezos_test/static/media/image 6.adc381ea.jpg",
+    "static/media/GeneralDescription.module.css": "/Tezos_test/static/media/laptop.f43ac5ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d16b6e1.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.7ca58610.chunk.js",
+    "static/css/main.63708446.chunk.css",
+    "static/js/main.f429aa21.chunk.js"
+  ]
+}
