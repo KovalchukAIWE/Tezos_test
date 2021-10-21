@@ -1,0 +1,22 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.pages {
+  width: auto;
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+
+.link {
+  text-decoration: none;
+  padding: 5px 8px;
+  color: #4f4f4f;
+}
+
+.link:hover {
+  background-color: #e0f0ec;
+}

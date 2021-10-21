@@ -1,0 +1,141 @@
+.wrapperBlock {
+  width: 880px;
+  height: auto;
+  background-color: white;
+  z-index: 2;
+  padding: 0 10px 0;
+  margin-bottom: 30px;
+}
+
+.block_header {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+  color: #2b7df7;
+}
+
+.select {
+  width: 110px;
+  height: 30px;
+}
+
+.buttons {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button {
+  width: 50px;
+  height: 30px;
+  margin: 5px;
+  border: 1px solid #e0f0ec;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: #e0f0ec;
+}
+
+.page {
+  display: flex;
+  justify-content: flex-end;
+  margin: 15px 0 0 0;
+}
+
+.block_wrapper {
+  width: 100%;
+  height: auto;
+  background-color: #2b7df7;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.wrapper {
+  width: 100%;
+  margin: 157px auto 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.bg_image {
+  background-image: url('../img/background.jpg');
+  background-size: cover;
+  opacity: 0.3;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 100%;
+  height: -webkit-fill-available;
+}
+
+.description {
+  color: white;
+  z-index: 3;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 340px;
+}
+
+.main_text {
+  font-size: 60px;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.text {
+  font-size: 24px;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.orangeBorder {
+  width: 100%;
+  height: 20px;
+  background-color: #ffbf2b;
+}
+
+@media (min-width: 1280px) {
+  .logo {
+    background: url('../img/Logo.svg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 132px;
+  }
+
+  .wrapper {
+    width: 93%;
+    justify-content: space-between;
+  }
+
+  .description {
+    width: 402px;
+  }
+
+  .main_text,
+  .text {
+    text-align: left;
+    margin: 0 auto;
+    padding-bottom: -20px;
+  }
+
+  .text {
+    font-size: 40px;
+  }
+}
+
+.block_header {
+  font-size: 8px;
+  font-weight: bold;
+}
+
+@media (min-width: 768px) {
+  .block_header {
+    font-size: 20px;
+  }
+}

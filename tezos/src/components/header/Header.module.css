@@ -1,57 +1,54 @@
 .header {
-    position: sticky;
-    z-index: 6;
-    top: 0;
-    width: 100%;
-    height: 90px;
-    background-color: #2B7DF7;
+  z-index: 6;
+  top: 0;
+  width: 100%;
+  height: 85px;
+  background-color: #2b7df7;
 }
-
-
 
 .logo {
-    margin-top: 8px;
-    background-image: url('../../img/headerLogo.svg');
-    background-repeat: no-repeat;
-    color: #FFFFFF;
-    width: 26px;
-    height: 37px;
+  margin-top: 8px;
+  background-image: url('../../img/headerLogo.svg');
+  background-repeat: no-repeat;
+  color: #ffffff;
+  width: 26px;
+  height: 37px;
 }
 
-.logo_wraper {
-    width: 95px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    color: #FFFFFF;
+.logo_wrapper {
+  width: 95px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
 }
 
 .navigation {
-    width: 70%;
-    display: flex;
-    margin: 0 auto;
-    justify-content: space-between;
+  width: 90%;
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
 }
 
 .navigation_items {
-    width: 65%;
-    display: flex;
-    justify-content: space-between;
+  width: 65%;
+  display: flex;
+  justify-content: space-between;
 }
 
 .items {
-    color: white;
-    width: 100px;
-    height: 60px;
-    text-align: center;
-    padding-top: 20px;
-    border-radius: 3px;
-    text-decoration: none;
+  color: white;
+  width: 100px;
+  height: 60px;
+  text-align: center;
+  padding-top: 20px;
+  border-radius: 3px;
+  text-decoration: none;
 }
 
 .items:hover {
-    background-color: #FFBF2B;
-    cursor: pointer;
+  background-color: #ffbf2b;
+  cursor: pointer;
 }
 
 /* .navigation_items {    
@@ -95,18 +92,16 @@
 } */
 
 @media (min-width: 768px) {
-    .logo_wraper {
-        width: 120px;
-    }
+  .logo_wraper {
+    width: 120px;
+  }
 
-    .navigation_items {
-        width: 30%;
-    }
-    
-    .items {
-        width: 200px;
-        height: 60px;
-    }
-    
-    
+  .navigation_items {
+    width: 30%;
+  }
+
+  .items {
+    width: 200px;
+    height: 60px;
+  }
 }

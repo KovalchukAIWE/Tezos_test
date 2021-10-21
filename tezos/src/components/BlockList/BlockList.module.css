@@ -1,0 +1,28 @@
+.item {
+  border-bottom: 2px dotted black;
+  padding: 7px;
+}
+.item_title {
+  margin: 0 2px 0 2px;
+  font-size: 8px;
+  text-align: left;
+}
+
+.row_title {
+  padding: 10px 0 10px 9px;
+  font-size: 6px;
+  text-align: left;
+}
+
+.table {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .item_title {
+    font-size: 18px;
+  }
+
+  .row_title {
+    font-size: 16px;
+  }
+}
